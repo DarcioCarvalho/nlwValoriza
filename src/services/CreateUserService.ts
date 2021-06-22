@@ -28,7 +28,7 @@ class CreateUserService {
       name,
       email,
       admin
-    })
+    });
 
     usersRepository.save(user);
 
