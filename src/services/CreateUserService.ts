@@ -32,8 +32,6 @@ class CreateUserService {
 
     usersRepository.save(user);
 
-    console.log(user);
-
     return user;
 
   }
