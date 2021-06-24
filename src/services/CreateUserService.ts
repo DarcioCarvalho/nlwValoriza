@@ -30,7 +30,7 @@ class CreateUserService {
       admin
     });
 
-    usersRepository.save(user);
+    await usersRepository.save(user);
 
     return user;
 
