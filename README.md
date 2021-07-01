@@ -23,11 +23,11 @@
 
  - Cadastro de elogios
 
-   [ ] Não é permitido um usuário cadastrar um elogio para si
+   [ x ] Não é permitido um usuário cadastrar um elogio para si
 
-   [ ] Não é permitido cadastrar elogios para usuários inválidos
+   [ x ] Não é permitido cadastrar elogios para usuários inválidos
 
-   [ ] O usuário precisa estar autenticado na aplicação
+   [ x ] O usuário precisa estar autenticado na aplicação
 
 =======
 # nlwValoriza
@@ -40,4 +40,20 @@ Projeto executado durante as aulas de Node.js de
 
 nlwValoriza é um aplicativo web feito em Node.js
 com acesso a Banco de Dados
+
+=======
+## MILHAS EXTRAS - ADICIONADOS PÓS CURSO ONLINE
+
+ - Listagem do Cadastro de Elogios
+
+   [ x ] Listar os Elogios e quantas vezes foram utilizados
+
+   [   ] Listar os Usuários e quantas vezes enviaram Elogios   
+
+   [   ] Listar os Usuários e quantas vezes receberam Elogios      
+
+   [   ] Os usuários que receberem elogios, receberão um aviso por e-mail          
+
+
+
 >>>>>>> fbd78308b5a61b0d02b65a2c3c64fc55fdc61263
