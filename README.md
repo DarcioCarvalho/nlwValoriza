@@ -48,9 +48,9 @@ com acesso a Banco de Dados
 
    [ x ] Listar os Elogios e quantas vezes foram utilizados
 
-   [   ] Listar os Usuários e quantas vezes enviaram Elogios   
+   [ x ] Listar os Usuários e quantas vezes enviaram Elogios   
 
-   [   ] Listar os Usuários e quantas vezes receberam Elogios      
+   [ x ] Listar os Usuários e quantas vezes receberam Elogios      
 
    [   ] Os usuários que receberem elogios, receberão um aviso por e-mail          
 
